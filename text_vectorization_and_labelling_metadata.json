@@ -1,0 +1,29 @@
+{
+  "dataset_info": {
+    "dataset_name": "Mission Practice GP Reviews - Sentiment Analysis",
+    "source": "Google Reviews for The Mission Practice GP surgery",
+    "total_reviews": 50,
+    "date_created": "2025-12-25",
+    "collection_method": "Exported using Phantom browser extension"
+  },
+  "vectorization_methods": {
+    "Bag_of_words": "Each document is represented as a vector of word counts over the selected vocabulary.",
+    "Tf_idf": "Each document is represented as a TF-IDF weighted vector, emphasizing words that are distinctive for that review."
+  },
+  "sentiment_labels": {
+    "description": "Sentiment labels assigned to classify review sentiment",
+    "labeling_method": "Star rating based classification",
+    "label_column": "sentiment_label",
+    "source_column": "Star rating",
+    "labeling_rules": {
+      "positive": {
+        "criteria": "Star rating = 5",
+        "count": 13
+      },
+      "negative": {
+        "criteria": "Star rating = 1",
+        "count": 37
+      }
+    }
+  }
+}

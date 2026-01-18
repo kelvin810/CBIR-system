@@ -1,0 +1,576 @@
+[
+  {
+    "filename": "01_zebra.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "zebra",
+      "savannah",
+      "group",
+      "standing"
+    ],
+    "description": "zebras standing on dry grassland"
+  },
+  {
+    "filename": "02_baboon.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "baboon",
+      "hugging",
+      "closeup"
+    ],
+    "description": "two baboons"
+  },
+  {
+    "filename": "03_squirrel.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "squirrel",
+      "orange fur",
+      "sitting",
+      "closeup"
+    ],
+    "description": "orange squirrel"
+  },
+  {
+    "filename": "04_bearded_dragon.jpg",
+    "animal_type": "reptile",
+    "keywords": [
+      "reptile",
+      "bearded dragon",
+      "lizard",
+      "camouflage"
+    ],
+    "description": "bearded dragon lizard"
+  },
+  {
+    "filename": "05_lion.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "lion",
+      "savannah",
+      "lying down"
+    ],
+    "description": "a lion in the savannah"
+  },
+  {
+    "filename": "06_giraffe.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "giraffe",
+      "closeup",
+      "green background",
+      "neck"
+    ],
+    "description": "closeup of giraffe"
+  },
+  {
+    "filename": "07_chameleon.jpg",
+    "animal_type": "reptile",
+    "keywords": [
+      "reptile",
+      "chameleon",
+      "colourful",
+      "open mouth"
+    ],
+    "description": "colourful chameleon"
+  },
+  {
+    "filename": "08_jackal.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "jackal",
+      "field",
+      "side view",
+      "standing"
+    ],
+    "description": "jackal standing on grassland"
+  },
+  {
+    "filename": "09_giraffe.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "giraffe",
+      "group",
+      "savannah",
+      "long neck"
+    ],
+    "description": "three giraffes"
+  },
+  {
+    "filename": "10_pig.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "pig",
+      "piglets",
+      "farm",
+      "group"
+    ],
+    "description": "three piglets"
+  },
+  {
+    "filename": "11_lemur.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "lemur",
+      "grass",
+      "alert"
+    ],
+    "description": "lemur sitting in grass"
+  },
+  {
+    "filename": "12_chimpanzee.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "chimpanzee",
+      "primates",
+      "sitting"
+    ],
+    "description": "calm chimpanzee"
+  },
+  {
+    "filename": "13_hedgehog.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "hedgehog",
+      "hands",
+      "closeup"
+    ],
+    "description": "small hedgehog"
+  },
+  {
+    "filename": "14_raccoon.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "raccoon",
+      "closeup",
+      "face",
+      "whiskers"
+    ],
+    "description": "closeup of young raccoon"
+  },
+  {
+    "filename": "15_lamb.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "lamb",
+      "sheep",
+      "grass",
+      "standing"
+    ],
+    "description": "small lamb standing on grass"
+  },
+  {
+    "filename": "16_hamster.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "hamster",
+      "hands",
+      "closeup",
+      "tiny"
+    ],
+    "description": "tiny hamster"
+  },
+  {
+    "filename": "17_deer.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "deer",
+      "pair",
+      "grass",
+      "lying down"
+    ],
+    "description": "two deers"
+  },
+  {
+    "filename": "18_red_panda.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "red panda",
+      "tree",
+      "orange fur",
+      "open mouth"
+    ],
+    "description": "red panda with orange fur"
+  },
+  {
+    "filename": "19_mongoose.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "mongoose",
+      "standing",
+      "sand"
+    ],
+    "description": "mongoose standing upright"
+  },
+  {
+    "filename": "20_baboon.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "baboon",
+      "rock",
+      "sitting wildlife"
+    ],
+    "description": "baboon sitting on a rock"
+  },
+  {
+    "filename": "21_tiger.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "tiger",
+      "stripes",
+      "forest",
+      "standing"
+    ],
+    "description": "tiger standing on grass"
+  },
+  {
+    "filename": "22_goat.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "goat",
+      "rock",
+      "mountain"
+    ],
+    "description": "white goat lying on a rock ledge"
+  },
+  {
+    "filename": "23_babirusa.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "babirusa",
+      "pig",
+      "mud"
+    ],
+    "description": "a babirusa with curved tusks"
+  },
+  {
+    "filename": "24_marmoset.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "marmoset",
+      "monkey",
+      "standing",
+      "grass"
+    ],
+    "description": "white eared marmoset"
+  },
+  {
+    "filename": "25_peacock.jpg",
+    "animal_type": "bird",
+    "keywords": [
+      "bird",
+      "peacock",
+      "colourful",
+      "standing"
+    ],
+    "description": "peacock standing with colourful tail feathers"
+  },
+  {
+    "filename": "26_dog.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "dog",
+      "field",
+      "pair",
+      "standing"
+    ],
+    "description": "two dogs standing close together"
+  },
+  {
+    "filename": "27_duckling.jpg",
+    "animal_type": "bird",
+    "keywords": [
+      "bird",
+      "duckling",
+      "pair",
+      "grass",
+      "young"
+    ],
+    "description": "two fluffy ducklings standing on grass"
+  },
+  {
+    "filename": "28_lemur.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "lemur",
+      "tree",
+      "perched"
+    ],
+    "description": "black and white lemur"
+  },
+  {
+    "filename": "29_cattle.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "cattle",
+      "herd",
+      "field",
+      "grass"
+    ],
+    "description": "A group of cattle"
+  },
+  {
+    "filename": "30_swan.jpg",
+    "animal_type": "bird",
+    "keywords": [
+      "bird",
+      "swan",
+      "water",
+      "swimming"
+    ],
+    "description": "a white swan swimming on calm blue water"
+  },
+  {
+    "filename": "31_dog.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "dog",
+      "closeup",
+      "portrait",
+      "indoors"
+    ],
+    "description": "a closeup portrait of a dog lying down"
+  },
+  {
+    "filename": "32_cow.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "cow",
+      "field",
+      "standing",
+      "blue sky"
+    ],
+    "description": "cow standing in a green field"
+  },
+  {
+    "filename": "33_duck.jpg",
+    "animal_type": "bird",
+    "keywords": [
+      "bird",
+      "duck",
+      "water",
+      "resting"
+    ],
+    "description": "brown duck resting on the edge"
+  },
+  {
+    "filename": "34_bear.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "bear",
+      "standing",
+      "forest"
+    ],
+    "description": "a bear standing"
+  },
+  {
+    "filename": "35_penguin.jpg",
+    "animal_type": "bird",
+    "keywords": [
+      "bird",
+      "penguin",
+      "standing",
+      "huts"
+    ],
+    "description": "a penguin standing"
+  },
+  {
+    "filename": "36_dog.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "dog",
+      "portrait",
+      "trees"
+    ],
+    "description": "dog looking to distance"
+  },
+  {
+    "filename": "37_lemur.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "lemur",
+      "closeup",
+      "face"
+    ],
+    "description": "closeup of lemur`s face"
+  },
+  {
+    "filename": "38_baboon.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "baboon",
+      "family",
+      "group",
+      "sitting"
+    ],
+    "description": "adult baboon with two young baboons"
+  },
+  {
+    "filename": "39_guanaco.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "guanco",
+      "standing",
+      "hill",
+      "sky"
+    ],
+    "description": "guanco standing alone"
+  },
+  {
+    "filename": "40_fox.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "fox",
+      "standing",
+      "grass",
+      "orange_fur"
+    ],
+    "description": "fox standing on green grass"
+  },
+  {
+    "filename": "41_chicken.jpg",
+    "animal_type": "bird",
+    "keywords": [
+      "bird",
+      "chickens",
+      "group",
+      "farm"
+    ],
+    "description": "group of chickens standing"
+  },
+  {
+    "filename": "42_meerkat.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "meerkat",
+      "pair",
+      "sand",
+      "standing up-right"
+    ],
+    "description": "two meerkats standing up-right"
+  },
+  {
+    "filename": "43_lynx.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "lynx",
+      "sitting",
+      "rocks"
+    ],
+    "description": "lying sitting on rocks"
+  },
+  {
+    "filename": "44_rabbit.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "rabbit",
+      "grass",
+      "sitting"
+    ],
+    "description": "brown rabbit"
+  },
+  {
+    "filename": "45_hippopotamus.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "hippopotamus",
+      "standing",
+      "dry ground",
+      "savannah"
+    ],
+    "description": "hippopotamus standing on dry ground"
+  },
+  {
+    "filename": "46_dog.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "dog",
+      "closeup",
+      "portrait"
+    ],
+    "description": "black dog"
+  },
+  {
+    "filename": "47_raccoon.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "raccoons",
+      "group",
+      "tree branch",
+      "forest"
+    ],
+    "description": "group of raccoons"
+  },
+  {
+    "filename": "48_squirrel.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "squirrel",
+      "flower",
+      "bush"
+    ],
+    "description": "red squirrel"
+  },
+  {
+    "filename": "49_cat.jpg",
+    "animal_type": "mammal",
+    "keywords": [
+      "mammal",
+      "cat",
+      "grass",
+      "sitting"
+    ],
+    "description": "cute cat"
+  },
+  {
+    "filename": "50_parrot.jpg",
+    "animal_type": "bird",
+    "keywords": [
+      "bird",
+      "parrots",
+      "pair",
+      "colourful"
+    ],
+    "description": "two parrots"
+  }
+]

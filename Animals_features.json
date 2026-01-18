@@ -1,0 +1,652 @@
+[
+  {
+    "filename": "01_zebra.jpg",
+    "intensity_features": {
+      "mean_intensity": 125.7781,
+      "norm_intensity": 119077.9148
+    },
+    "shape_features": {
+      "area": 161911.5
+    },
+    "texture_features": {
+      "contrast": 231.1272
+    }
+  },
+  {
+    "filename": "02_baboon.jpg",
+    "intensity_features": {
+      "mean_intensity": 117.5242,
+      "norm_intensity": 118959.6565
+    },
+    "shape_features": {
+      "area": 131428.0
+    },
+    "texture_features": {
+      "contrast": 88.3621
+    }
+  },
+  {
+    "filename": "03_squirrel.jpg",
+    "intensity_features": {
+      "mean_intensity": 134.1765,
+      "norm_intensity": 121290.7423
+    },
+    "shape_features": {
+      "area": 159492.0
+    },
+    "texture_features": {
+      "contrast": 26.9435
+    }
+  },
+  {
+    "filename": "04_bearded_dragon.jpg",
+    "intensity_features": {
+      "mean_intensity": 75.8379,
+      "norm_intensity": 90283.0661
+    },
+    "shape_features": {
+      "area": 60275.5
+    },
+    "texture_features": {
+      "contrast": 88.2932
+    }
+  },
+  {
+    "filename": "05_lion.jpg",
+    "intensity_features": {
+      "mean_intensity": 131.3984,
+      "norm_intensity": 122157.1639
+    },
+    "shape_features": {
+      "area": 243381.0
+    },
+    "texture_features": {
+      "contrast": 54.026
+    }
+  },
+  {
+    "filename": "06_giraffe.jpg",
+    "intensity_features": {
+      "mean_intensity": 93.2196,
+      "norm_intensity": 93719.9767
+    },
+    "shape_features": {
+      "area": 35213.5
+    },
+    "texture_features": {
+      "contrast": 88.4815
+    }
+  },
+  {
+    "filename": "07_chameleon.jpg",
+    "intensity_features": {
+      "mean_intensity": 106.0845,
+      "norm_intensity": 102117.1384
+    },
+    "shape_features": {
+      "area": 48513.0
+    },
+    "texture_features": {
+      "contrast": 23.5421
+    }
+  },
+  {
+    "filename": "08_jackal.jpg",
+    "intensity_features": {
+      "mean_intensity": 95.7496,
+      "norm_intensity": 90899.1996
+    },
+    "shape_features": {
+      "area": 72169.0
+    },
+    "texture_features": {
+      "contrast": 65.7907
+    }
+  },
+  {
+    "filename": "09_giraffe.jpg",
+    "intensity_features": {
+      "mean_intensity": 160.1942,
+      "norm_intensity": 147825.1774
+    },
+    "shape_features": {
+      "area": 201470.5
+    },
+    "texture_features": {
+      "contrast": 34.9737
+    }
+  },
+  {
+    "filename": "10_pig.jpg",
+    "intensity_features": {
+      "mean_intensity": 123.8009,
+      "norm_intensity": 120193.7447
+    },
+    "shape_features": {
+      "area": 131135.0
+    },
+    "texture_features": {
+      "contrast": 184.6654
+    }
+  },
+  {
+    "filename": "11_lemur.jpg",
+    "intensity_features": {
+      "mean_intensity": 105.288,
+      "norm_intensity": 100227.434
+    },
+    "shape_features": {
+      "area": 86978.5
+    },
+    "texture_features": {
+      "contrast": 41.9805
+    }
+  },
+  {
+    "filename": "12_chimpanzee.jpg",
+    "intensity_features": {
+      "mean_intensity": 81.9262,
+      "norm_intensity": 91089.1088
+    },
+    "shape_features": {
+      "area": 50568.0
+    },
+    "texture_features": {
+      "contrast": 62.973
+    }
+  },
+  {
+    "filename": "13_hedgehog.jpg",
+    "intensity_features": {
+      "mean_intensity": 122.5968,
+      "norm_intensity": 112760.2652
+    },
+    "shape_features": {
+      "area": 112432.0
+    },
+    "texture_features": {
+      "contrast": 36.8609
+    }
+  },
+  {
+    "filename": "14_raccoon.jpg",
+    "intensity_features": {
+      "mean_intensity": 111.147,
+      "norm_intensity": 107417.3941
+    },
+    "shape_features": {
+      "area": 55183.0
+    },
+    "texture_features": {
+      "contrast": 17.749
+    }
+  },
+  {
+    "filename": "15_lamb.jpg",
+    "intensity_features": {
+      "mean_intensity": 108.3587,
+      "norm_intensity": 102680.6754
+    },
+    "shape_features": {
+      "area": 59865.5
+    },
+    "texture_features": {
+      "contrast": 24.42
+    }
+  },
+  {
+    "filename": "16_hamster.jpg",
+    "intensity_features": {
+      "mean_intensity": 141.5959,
+      "norm_intensity": 130930.7292
+    },
+    "shape_features": {
+      "area": 138804.5
+    },
+    "texture_features": {
+      "contrast": 9.3221
+    }
+  },
+  {
+    "filename": "17_deer.jpg",
+    "intensity_features": {
+      "mean_intensity": 106.6855,
+      "norm_intensity": 101492.9612
+    },
+    "shape_features": {
+      "area": 54442.5
+    },
+    "texture_features": {
+      "contrast": 61.2078
+    }
+  },
+  {
+    "filename": "18_red_panda.jpg",
+    "intensity_features": {
+      "mean_intensity": 70.0407,
+      "norm_intensity": 77010.7747
+    },
+    "shape_features": {
+      "area": 23363.0
+    },
+    "texture_features": {
+      "contrast": 25.2492
+    }
+  },
+  {
+    "filename": "19_mongoose.jpg",
+    "intensity_features": {
+      "mean_intensity": 118.6823,
+      "norm_intensity": 112836.7085
+    },
+    "shape_features": {
+      "area": 133805.0
+    },
+    "texture_features": {
+      "contrast": 65.6955
+    }
+  },
+  {
+    "filename": "20_baboon.jpg",
+    "intensity_features": {
+      "mean_intensity": 150.3991,
+      "norm_intensity": 141615.4279
+    },
+    "shape_features": {
+      "area": 179468.5
+    },
+    "texture_features": {
+      "contrast": 27.8356
+    }
+  },
+  {
+    "filename": "21_tiger.jpg",
+    "intensity_features": {
+      "mean_intensity": 88.1604,
+      "norm_intensity": 91240.2851
+    },
+    "shape_features": {
+      "area": 33918.0
+    },
+    "texture_features": {
+      "contrast": 113.9166
+    }
+  },
+  {
+    "filename": "22_goat.jpg",
+    "intensity_features": {
+      "mean_intensity": 97.9732,
+      "norm_intensity": 101305.2965
+    },
+    "shape_features": {
+      "area": 48464.5
+    },
+    "texture_features": {
+      "contrast": 133.7483
+    }
+  },
+  {
+    "filename": "23_babirusa.jpg",
+    "intensity_features": {
+      "mean_intensity": 139.9172,
+      "norm_intensity": 128913.1711
+    },
+    "shape_features": {
+      "area": 219974.5
+    },
+    "texture_features": {
+      "contrast": 133.0613
+    }
+  },
+  {
+    "filename": "24_marmoset.jpg",
+    "intensity_features": {
+      "mean_intensity": 103.2742,
+      "norm_intensity": 99489.0361
+    },
+    "shape_features": {
+      "area": 119292.5
+    },
+    "texture_features": {
+      "contrast": 97.637
+    }
+  },
+  {
+    "filename": "25_peacock.jpg",
+    "intensity_features": {
+      "mean_intensity": 76.7449,
+      "norm_intensity": 79636.1458
+    },
+    "shape_features": {
+      "area": 14395.0
+    },
+    "texture_features": {
+      "contrast": 115.551
+    }
+  },
+  {
+    "filename": "26_dog.jpg",
+    "intensity_features": {
+      "mean_intensity": 133.7834,
+      "norm_intensity": 128783.512
+    },
+    "shape_features": {
+      "area": 126651.5
+    },
+    "texture_features": {
+      "contrast": 52.7548
+    }
+  },
+  {
+    "filename": "27_duckling.jpg",
+    "intensity_features": {
+      "mean_intensity": 101.5501,
+      "norm_intensity": 102201.315
+    },
+    "shape_features": {
+      "area": 101685.0
+    },
+    "texture_features": {
+      "contrast": 147.2147
+    }
+  },
+  {
+    "filename": "28_lemur.jpg",
+    "intensity_features": {
+      "mean_intensity": 90.7443,
+      "norm_intensity": 101052.5889
+    },
+    "shape_features": {
+      "area": 62554.5
+    },
+    "texture_features": {
+      "contrast": 48.6152
+    }
+  },
+  {
+    "filename": "29_cattle.jpg",
+    "intensity_features": {
+      "mean_intensity": 133.3823,
+      "norm_intensity": 126015.9696
+    },
+    "shape_features": {
+      "area": 140261.0
+    },
+    "texture_features": {
+      "contrast": 35.6469
+    }
+  },
+  {
+    "filename": "30_swan.jpg",
+    "intensity_features": {
+      "mean_intensity": 93.931,
+      "norm_intensity": 96676.1884
+    },
+    "shape_features": {
+      "area": 49922.5
+    },
+    "texture_features": {
+      "contrast": 56.7982
+    }
+  },
+  {
+    "filename": "31_dog.jpg",
+    "intensity_features": {
+      "mean_intensity": 146.4493,
+      "norm_intensity": 132423.8173
+    },
+    "shape_features": {
+      "area": 236316.0
+    },
+    "texture_features": {
+      "contrast": 18.3791
+    }
+  },
+  {
+    "filename": "32_cow.jpg",
+    "intensity_features": {
+      "mean_intensity": 140.5389,
+      "norm_intensity": 141549.5025
+    },
+    "shape_features": {
+      "area": 158253.0
+    },
+    "texture_features": {
+      "contrast": 58.1255
+    }
+  },
+  {
+    "filename": "33_duck.jpg",
+    "intensity_features": {
+      "mean_intensity": 102.3529,
+      "norm_intensity": 102597.2153
+    },
+    "shape_features": {
+      "area": 47916.5
+    },
+    "texture_features": {
+      "contrast": 60.8423
+    }
+  },
+  {
+    "filename": "34_bear.jpg",
+    "intensity_features": {
+      "mean_intensity": 117.3078,
+      "norm_intensity": 112202.1358
+    },
+    "shape_features": {
+      "area": 138901.0
+    },
+    "texture_features": {
+      "contrast": 60.5352
+    }
+  },
+  {
+    "filename": "35_penguin.jpg",
+    "intensity_features": {
+      "mean_intensity": 122.4536,
+      "norm_intensity": 119187.5543
+    },
+    "shape_features": {
+      "area": 122239.5
+    },
+    "texture_features": {
+      "contrast": 42.8407
+    }
+  },
+  {
+    "filename": "36_dog.jpg",
+    "intensity_features": {
+      "mean_intensity": 112.7538,
+      "norm_intensity": 114800.8877
+    },
+    "shape_features": {
+      "area": 90350.0
+    },
+    "texture_features": {
+      "contrast": 34.4378
+    }
+  },
+  {
+    "filename": "37_lemur.jpg",
+    "intensity_features": {
+      "mean_intensity": 139.3599,
+      "norm_intensity": 129778.132
+    },
+    "shape_features": {
+      "area": 161283.0
+    },
+    "texture_features": {
+      "contrast": 24.0528
+    }
+  },
+  {
+    "filename": "38_baboon.jpg",
+    "intensity_features": {
+      "mean_intensity": 105.7319,
+      "norm_intensity": 109336.4217
+    },
+    "shape_features": {
+      "area": 59605.5
+    },
+    "texture_features": {
+      "contrast": 53.8592
+    }
+  },
+  {
+    "filename": "39_guanaco.jpg",
+    "intensity_features": {
+      "mean_intensity": 152.743,
+      "norm_intensity": 140987.8818
+    },
+    "shape_features": {
+      "area": 157721.0
+    },
+    "texture_features": {
+      "contrast": 69.4
+    }
+  },
+  {
+    "filename": "40_fox.jpg",
+    "intensity_features": {
+      "mean_intensity": 107.8292,
+      "norm_intensity": 105184.5627
+    },
+    "shape_features": {
+      "area": 108453.0
+    },
+    "texture_features": {
+      "contrast": 16.3748
+    }
+  },
+  {
+    "filename": "41_chicken.jpg",
+    "intensity_features": {
+      "mean_intensity": 136.2911,
+      "norm_intensity": 135091.3233
+    },
+    "shape_features": {
+      "area": 80072.0
+    },
+    "texture_features": {
+      "contrast": 77.6495
+    }
+  },
+  {
+    "filename": "42_meerkat.jpg",
+    "intensity_features": {
+      "mean_intensity": 164.32,
+      "norm_intensity": 148502.6225
+    },
+    "shape_features": {
+      "area": 235747.5
+    },
+    "texture_features": {
+      "contrast": 21.9984
+    }
+  },
+  {
+    "filename": "43_lynx.jpg",
+    "intensity_features": {
+      "mean_intensity": 85.8576,
+      "norm_intensity": 82074.5247
+    },
+    "shape_features": {
+      "area": 13239.0
+    },
+    "texture_features": {
+      "contrast": 38.5818
+    }
+  },
+  {
+    "filename": "44_rabbit.jpg",
+    "intensity_features": {
+      "mean_intensity": 105.5258,
+      "norm_intensity": 102758.1497
+    },
+    "shape_features": {
+      "area": 84869.0
+    },
+    "texture_features": {
+      "contrast": 53.548
+    }
+  },
+  {
+    "filename": "45_hippopotamus.jpg",
+    "intensity_features": {
+      "mean_intensity": 128.1029,
+      "norm_intensity": 115974.4564
+    },
+    "shape_features": {
+      "area": 161299.5
+    },
+    "texture_features": {
+      "contrast": 40.4425
+    }
+  },
+  {
+    "filename": "46_dog.jpg",
+    "intensity_features": {
+      "mean_intensity": 69.5999,
+      "norm_intensity": 72337.9418
+    },
+    "shape_features": {
+      "area": 12321.0
+    },
+    "texture_features": {
+      "contrast": 22.2347
+    }
+  },
+  {
+    "filename": "47_raccoon.jpg",
+    "intensity_features": {
+      "mean_intensity": 100.9049,
+      "norm_intensity": 99017.8756
+    },
+    "shape_features": {
+      "area": 30385.0
+    },
+    "texture_features": {
+      "contrast": 105.105
+    }
+  },
+  {
+    "filename": "48_squirrel.jpg",
+    "intensity_features": {
+      "mean_intensity": 58.655,
+      "norm_intensity": 70897.0949
+    },
+    "shape_features": {
+      "area": 13748.0
+    },
+    "texture_features": {
+      "contrast": 66.7526
+    }
+  },
+  {
+    "filename": "49_cat.jpg",
+    "intensity_features": {
+      "mean_intensity": 110.5841,
+      "norm_intensity": 109438.9559
+    },
+    "shape_features": {
+      "area": 84751.0
+    },
+    "texture_features": {
+      "contrast": 33.393
+    }
+  },
+  {
+    "filename": "50_parrot.jpg",
+    "intensity_features": {
+      "mean_intensity": 126.0741,
+      "norm_intensity": 132620.9348
+    },
+    "shape_features": {
+      "area": 136818.5
+    },
+    "texture_features": {
+      "contrast": 33.222
+    }
+  }
+]
